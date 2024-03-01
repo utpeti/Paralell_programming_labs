@@ -1,0 +1,1164 @@
+Bemeneti adatok: n - a hivatalnokok (szalak) szama
+=======================================================================================================================
+
+Az elso teszt eredmenye(n = 4):
+
+0. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+0. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+2. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+2. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+2. hivatalnoknak nincs tobb nyomtatnivaloja.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+0. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+1. hivatalnoknak nincs tobb nyomtatnivaloja.
+
+=======================================================================================================================
+
+A masodik teszt eredmenye(10):
+
+0. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 3 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+0. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+9. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+7. hivatalnok nyomtat 3 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+7. hivatalnok nyomtat 3 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtat 3 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+8. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 2 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 3 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+Az intezo bejott az irodaba.
+0. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+2. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtat 1 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 3 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+2. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+5. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+2. hivatalnok nyomtat 3 dokumentumot.
+2. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 2 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+2. hivatalnoknak nincs tobb nyomtatnivaloja.
+5. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+8. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+9. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+9. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok nyomtat 3 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 1 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+4. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 3 dokumentumot.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+3. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+3. hivatalnok nyomtat 1 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 3 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 1 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 3 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+3. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+4. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+3. hivatalnok nyomtat 3 dokumentumot.
+3. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 3 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 3 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 3 dokumentumot.
+Az intezo bejott az irodaba.
+9. hivatalnok befejezte a nyomtatast.
+3. hivatalnoknak nincs tobb nyomtatnivaloja.
+5. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+0. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+8. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+0. hivatalnok nyomtat 2 dokumentumot.
+0. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 3 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+0. hivatalnoknak nincs tobb nyomtatnivaloja.
+8. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnok nyomtat 2 dokumentumot.
+8. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 3 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+8. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+9. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtat 3 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtat 1 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+7. hivatalnok nyomtatni szeretne.
+5. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+7. hivatalnok nyomtat 3 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+5. hivatalnok nyomtat 2 dokumentumot.
+5. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtat 2 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+5. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 3 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+7. hivatalnok nyomtatni szeretne.
+6. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 1 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+6. hivatalnok nyomtat 1 dokumentumot.
+6. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 3 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+6. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+1. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtat 1 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 2 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+7. hivatalnok nyomtatni szeretne.
+7. hivatalnok nyomtat 3 dokumentumot.
+7. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtatni szeretne.
+1. hivatalnok nyomtat 1 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnok nyomtatni szeretne.
+Az intezo bejott az irodaba.
+4. hivatalnok nyomtatni szeretne.
+7. hivatalnoknak nincs tobb nyomtatnivaloja.
+1. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+9. hivatalnok nyomtat 2 dokumentumot.
+9. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+1. hivatalnok nyomtat 2 dokumentumot.
+1. hivatalnok befejezte a nyomtatast.
+9. hivatalnoknak nincs tobb nyomtatnivaloja.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+1. hivatalnoknak nincs tobb nyomtatnivaloja.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+Az intezo bejott az irodaba.
+4. hivatalnok nyomtatni szeretne.
+Az intezo kicserelte a patront.
+Az intezo hazament.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 3 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 1 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnok nyomtatni szeretne.
+4. hivatalnok nyomtat 2 dokumentumot.
+4. hivatalnok befejezte a nyomtatast.
+4. hivatalnoknak nincs tobb nyomtatnivaloja.

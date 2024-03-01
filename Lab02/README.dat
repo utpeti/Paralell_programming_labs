@@ -1,0 +1,112 @@
+Bemeneti adatok: n - a sortolando szammok szama, m - a szalak szama
+=======================================================================================================================
+
+Az elso teszt eredmenye(30, 5):
+Thread: 0; index: 0, value: 40; new pozition: 14
+Thread: 0; index: 1, value: 12; new pozition: 10
+Thread: 0; index: 2, value: 5; new pozition: 6
+Thread: 0; index: 3, value: 66; new pozition: 16
+Thread: 1; index: 6, value: 13; new pozition: 11
+Thread: 1; index: 7, value: 66; new pozition: 16
+Thread: 1; index: 8, value: 3; new pozition: 3
+Thread: 1; index: 9, value: 3; new pozition: 3
+Thread: 1; index: 10, value: 757; new pozition: 23
+Thread: 3; index: 18, value: 6; new pozition: 8
+Thread: 3; index: 19, value: 78; new pozition: 18
+Thread: 4; index: 24, value: 1032; new pozition: 24
+Thread: 4; index: 25, value: 9124; new pozition: 29
+Thread: 2; index: 12, value: 34; new pozition: 13
+Thread: 2; index: 13, value: 44; new pozition: 15
+Thread: 2; index: 14, value: 22; new pozition: 12
+Thread: 2; index: 15, value: 321; new pozition: 21
+Thread: 2; index: 16, value: 11; new pozition: 9
+Thread: 2; index: 17, value: 5; new pozition: 6
+Thread: 2 finished 1.
+Thread: 4; index: 26, value: 2011; new pozition: 26
+Thread: 4; index: 27, value: 2022; new pozition: 27
+Thread: 4; index: 28, value: 1111; new pozition: 25
+Thread: 4; index: 29, value: 2311; new pozition: 28
+Thread: 4 finished 2.
+Thread: 1; index: 11, value: 753; new pozition: 22
+Thread: 1 finished 3.
+Thread: 0; index: 4, value: 1; new pozition: 0
+Thread: 0; index: 5, value: 99; new pozition: 19
+Thread: 0 finished 4.
+Thread: 3; index: 20, value: 3; new pozition: 3
+Thread: 3; index: 21, value: 1; new pozition: 0
+Thread: 3; index: 22, value: 2; new pozition: 2
+Thread: 3; index: 23, value: 100; new pozition: 20
+Thread: 3 finished 5.
+Result: 1 1 2 3 3 3 5 5 6 11 12 13 22 34 40 44 66 66 78 99 100 321 753 757 1032 1111 2011 2022 2311 9124 
+TIME ELAPSED: 0.001351
+
+=======================================================================================================================
+
+A masodik teszt eredmenye(30, 10):
+
+Thread: 0; index: 0, value: 40; new pozition: 14
+Thread: 0; index: 1, value: 12; new pozition: 10
+Thread: 0; index: 2, value: 5; new pozition: 6
+Thread: 0 finished 1.
+Thread: 2; index: 6, value: 13; new pozition: 11
+Thread: 2; index: 7, value: 66; new pozition: 16
+Thread: 2; index: 8, value: 3; new pozition: 3
+Thread: 2 finished 2.
+Thread: 1; index: 3, value: 66; new pozition: 16
+Thread: 1; index: 4, value: 1; new pozition: 0
+Thread: 1; index: 5, value: 99; new pozition: 19
+Thread: 1 finished 3.
+Thread: 3; index: 9, value: 3; new pozition: 3
+Thread: 3; index: 10, value: 757; new pozition: 23
+Thread: 4; index: 12, value: 34; new pozition: 13
+Thread: 4; index: 13, value: 44; new pozition: 15
+Thread: 4; index: 14, value: 22; new pozition: 12
+Thread: 4 finished 4.
+Thread: 3; index: 11, value: 753; new pozition: 22
+Thread: 3 finished 5.
+Thread: 5; index: 15, value: 321; new pozition: 21
+Thread: 5; index: 16, value: 11; new pozition: 9
+Thread: 5; index: 17, value: 5; new pozition: 6
+Thread: 5 finished 6.
+Thread: 6; index: 18, value: 6; new pozition: 8
+Thread: 6; index: 19, value: 78; new pozition: 18
+Thread: 6; index: 20, value: 3; new pozition: 3
+Thread: 6 finished 7.
+Thread: 7; index: 21, value: 1; new pozition: 0
+Thread: 7; index: 22, value: 2; new pozition: 2
+Thread: 7; index: 23, value: 100; new pozition: 20
+Thread: 7 finished 8.
+Thread: 8; index: 24, value: 1032; new pozition: 24
+Thread: 8; index: 25, value: 9124; new pozition: 29
+Thread: 8; index: 26, value: 2011; new pozition: 26
+Thread: 8 finished 9.
+Thread: 9; index: 27, value: 2022; new pozition: 27
+Thread: 9; index: 28, value: 1111; new pozition: 25
+Thread: 9; index: 29, value: 2311; new pozition: 28
+Thread: 9 finished 10.
+Result: 1 1 2 3 3 3 5 5 6 11 12 13 22 34 40 44 66 66 78 99 100 321 753 757 1032 1111 2011 2022 2311 9124 
+TIME ELAPSED: 0.001645
+
+=======================================================================================================================
+
+A harmadik teszt eremenye(15, 2):
+
+Thread: 0; index: 0, value: 40; new pozition: 8
+Thread: 0; index: 1, value: 12; new pozition: 4
+Thread: 0; index: 2, value: 5; new pozition: 3
+Thread: 0; index: 3, value: 66; new pozition: 10
+Thread: 1; index: 7, value: 66; new pozition: 10
+Thread: 1; index: 8, value: 3; new pozition: 1
+Thread: 1; index: 9, value: 3; new pozition: 1
+Thread: 1; index: 10, value: 757; new pozition: 14
+Thread: 0; index: 4, value: 1; new pozition: 0
+Thread: 0; index: 5, value: 99; new pozition: 12
+Thread: 0; index: 6, value: 13; new pozition: 5
+Thread: 0 finished 1.
+Thread: 1; index: 11, value: 753; new pozition: 13
+Thread: 1; index: 12, value: 34; new pozition: 7
+Thread: 1; index: 13, value: 44; new pozition: 9
+Thread: 1; index: 14, value: 22; new pozition: 6
+Thread: 1 finished 2.
+Result: 1 3 3 5 12 13 22 34 40 44 66 66 99 753 757 
+TIME ELAPSED: 0.000437
